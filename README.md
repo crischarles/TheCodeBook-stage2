@@ -14,8 +14,8 @@ And researching the result on the internet I could see that it is in LATIN.
 The message means something around:
 "Every man is the artisan of his own fortune Appius Claudius Caecus the secret (or code) word is 'neutron'"
 
-Again, this script will work to any ciphered message which the language has A and E among the 3 most frequent letters, the longer the ciphertext, the higher the accuracy of the script.
-This script works only for Caesar Cipher text.
+Again, this script will work to any ciphertext which the language has A and E among the 3 most frequent letters, the longer the ciphertext, the higher the accuracy of the script.
+This script works only for ciphertext with Caesar Cipher.
 
 ## Additional Information 
 
